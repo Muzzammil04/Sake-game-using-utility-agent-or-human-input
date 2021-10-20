@@ -1,5 +1,5 @@
 # Sake-game-using-utility-agent-orhuman-input
-The game is build using the java programming language.
-It used utility base agent for movement.
-Press arrow keys for human input.
-Press enter to use agent
+The game is a snake game.
+The goal of the game is to eat maximum number of food to get the longest snake possible.
+To activate the agent to make the snake autonomous press <Enter> key.
+For human interaction use arrow keys.
